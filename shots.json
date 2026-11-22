@@ -1,0 +1,8 @@
+{
+  "shots": [
+    { "name": "cover", "url": "http://localhost:8080/?shot=cover", "width": 1280, "height": 720 },
+    { "name": "nearmiss", "url": "http://localhost:8080/?shot=nearmiss", "width": 1280, "height": 720 },
+    { "name": "alert", "url": "http://localhost:8080/?shot=alert", "width": 1280, "height": 720 },
+    { "name": "win", "url": "http://localhost:8080/?shot=win", "width": 1280, "height": 720 }
+  ]
+}
